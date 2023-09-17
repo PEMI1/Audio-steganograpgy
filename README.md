@@ -1,1 +1,1 @@
-# Audio-steganograpgy
+# Audio-steganography
